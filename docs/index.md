@@ -45,6 +45,11 @@ streaming:
         - name: Smashystream
           logo: https://tbcpl.lol/logo/movies_shows/smashystream.png
           url: https://smashystream.xyz/
+        - name: Movies4u
+          logo  https://movies4u.top/logo.svg
+          url: https://movies4u.top/
+      
+        
 
     anime:
       label: Anime
@@ -116,6 +121,10 @@ streaming:
           logo: /assets/primeshows/logo.png
           url: https://primeshows.live
           tags: [Movies, TV Shows]
+       - name: Vidflix   
+         logo: /assets/vidflix/logo.png
+         url: https://vidflix.club
+         tags: [Movies, TV Shows]
 
     live-sports:
       label: Live Sports
