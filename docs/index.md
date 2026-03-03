@@ -46,8 +46,9 @@ streaming:
           logo: https://tbcpl.lol/logo/movies_shows/smashystream.png
           url: https://smashystream.xyz/
         - name: Movies4u
-          logo  https://movies4u.top/logo.svg
+         logo: https://movies4u.top/logo.svg
           url: https://movies4u.top/
+          tags: [Hollywood]
       
         
 
