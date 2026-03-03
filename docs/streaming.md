@@ -14,14 +14,14 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * ⭐ **[FlixFree](https://www.flixfree.online/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/flixfreeonline)
 * ⭐ **[CineAura](https://cineaura.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/FYu4krX3JG)
 * ⭐ **[HivFlix](https://hivflix.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/hivflix) / [Discord](https://discord.com/invite/33yA574vvd)
-* * ⭐ **[HivFlix](https://movies4u.top/)** - Movies / TV / Anime / continue watching / user platform/ auto next
+* ⭐ **[Movies4u](https://movies4u.top/)** - Movies / TV / Anime / continue watching / user platform/ auto next
 
 
 ## Embeds Platform
 
 * ⭐ **[VidPlus](https://vidplus.to)** - Movies / TV / Anime / [Discord](https://discord.gg/gPxgZzbHDK)
 * ⭐ **[Auto Embed](https://autoembed.cc)** - Movies / TV / [Discord](https://discord.gg/P2u7dtVD6k)
-* ⭐ **[Auto Embed](https://vidflix.club)** - Movies / TV / stremaing/ download [Telegram](https://t.me/vidflix_club)
+* ⭐ **[vidflix](https://vidflix.club)** - Movies / TV / stremaing/ download [Telegram](https://t.me/vidflix_club)
 
 ## Anime Streaming
 
